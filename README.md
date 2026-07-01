@@ -4,10 +4,9 @@ Welcome to my personal portfolio website!
 This portfolio showcases my skills, projects, internships, achievements, certifications, and experience as a **Full-Stack & AI Developer**.
 
 ## 🌐 Live Demo
-(Add your GitHub Pages link here)
+https://sanjeevsingh77.github.io/My-portfolio-website/
 
-Example:
-https://yourusername.github.io/portfolio/
+
 
 ---
 
@@ -106,15 +105,7 @@ Real-time emotion detection system using webcam input with AI-powered emotion an
 
 ---
 
-# 📸 Portfolio Preview
-
-(Add screenshots here)
-
-Example:
-
-```md
-![Portfolio Screenshot](screenshot.png)
-```
+# 📸 ![alt text](image.png)
 
 ---
 
